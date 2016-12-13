@@ -1,9 +1,9 @@
-# 全栈投票实战项目
+# 投票点赞项目
 * 基于nodejs && express的后台服务
 * 基于zepto的前端网页构建
 * 前后数据分离
 
-###注：头像上传功能暂时没加上去，用户头像都采用默认头像
+###注：头像暂时没加上去，用户头像都采用默认头像
 
 首页
 
@@ -39,7 +39,7 @@
 克隆项目
 
 ```
-> $ git clone https://github.com/CanFoo/vote.git
+> $ git clone https://github.com/yangbaozhong/SiNo
 ```
 在vote目录下安装依赖包
 
